@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: #FF8BA0;
+    font-family: "Verdana","DejaVu Sans", serif;
+}
+
+.third {
+    font-size: 36px;
+} 
+
+#firstid {
+    color: rgb(35, 35, 224);
+    font-size: 36px;
+}
+
+#secondid {
+    background-color: rgb(80, 241, 80);
+    font-size: 36px;
+    font-weight: bold;
+}
